@@ -12,3 +12,4 @@ public class NullMain1 {
         System.out.println("3.data = " + data);
     }
 }
+

@@ -1,4 +1,4 @@
-package ex;
+package class1.ex;
 
 public class StudentDB {
     public static void main(String[] args) {
