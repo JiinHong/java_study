@@ -5,47 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71aedfd5-c56c-4b37-bd91-fe7c6cd62e97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java-basic/src/access/BankAccountMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/src/access/Speaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/src/access/SpeakerMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/src/access/a/AccessData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/src/access/a/AccessInnerMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/src/access/a/PublicClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/src/access/a/PublicClassInnerMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/src/access/b/AccessOuterMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/src/access/b/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/src/access/b/PublicClassOuterMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/src/access/ex/CounterMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/src/access/ex/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/src/access/ex/MaxCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/src/access/ex/ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/src/access/ex/ShoppingCartMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-basic/access/BankAccountMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-basic/access/Speaker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-basic/access/SpeakerMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-basic/access/a/AccessData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-basic/access/a/AccessInnerMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-basic/access/a/DefaultClass1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-basic/access/a/DefaultClass2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-basic/access/a/PublicClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-basic/access/a/PublicClassInnerMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-basic/access/b/AccessOuterMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-basic/access/b/BankAccount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-basic/access/b/PublicClassOuterMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-basic/access/ex/CounterMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-basic/access/ex/Item.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-basic/access/ex/MaxCounter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-basic/access/ex/ShoppingCart.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-basic/access/ex/ShoppingCartMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-basic/com/helloshop/order/Order.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-basic/com/helloshop/order/OrderHistory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-basic/com/helloshop/order/OrderService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-basic/com/helloshop/product/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-basic/com/helloshop/product/ProductService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-basic/com/helloshop/user/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-basic/com/helloshop/user/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/src/final1/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/src/final1/ConstantMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/src/final1/ConstructInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/src/final1/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/src/final1/FieldInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/src/final1/FinalFieldMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/src/final1/FinalLocalMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/src/final1/FinalRefMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/src/final1/ex/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/src/final1/ex/MemberMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/src/memory/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/src/memory/JavaMemoryMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/src/memory/JavaMemoryMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/src/static1/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/src/static1/Data1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/src/static1/Data2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/src/static1/Data3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/src/static1/DataCountMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/src/static1/DataCountMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/src/static1/DataCountMain3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/src/static2/DecoData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/src/static2/DecoDataMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/src/static2/DecoMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/src/static2/DecoMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/src/static2/DecoUtil1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/src/static2/DecoUtil2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/src/static2/ex/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/src/static2/ex/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/src/static2/ex/MathArrayUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/src/static2/ex/MathArrayUtilsMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/pack/PackageMain3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-basic/pack/PackageMain3.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,10 +73,23 @@
     "Application.AccountMain.executor": "Run",
     "Application.BankAccountMain.executor": "Run",
     "Application.BookMain.executor": "Run",
+    "Application.CarMain.executor": "Run",
+    "Application.ConstantMain1.executor": "Run",
     "Application.ConstructMain1.executor": "Run",
     "Application.ConstructMain2.executor": "Run",
     "Application.CounterMain.executor": "Run",
+    "Application.DataCountMain1.executor": "Run",
+    "Application.DataCountMain2.executor": "Run",
+    "Application.DataCountMain3.executor": "Run",
+    "Application.DecoDataMain.executor": "Run",
+    "Application.DecoMain1.executor": "Run",
+    "Application.FinalFieldMain.executor": "Run",
+    "Application.FinalRefMain.executor": "Run",
+    "Application.JavaMemoryMain1.executor": "Debug",
+    "Application.JavaMemoryMain2.executor": "Run",
+    "Application.MathArrayUtilsMain.executor": "Run",
     "Application.MemberDefaultMain.executor": "Run",
+    "Application.MemberMain.executor": "Run",
     "Application.MethodInitMain1.executor": "Run",
     "Application.MethodInitMain2.executor": "Run",
     "Application.MethodInitMain3.executor": "Run",
@@ -104,26 +108,32 @@
     "Application.ValueObjectMain.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/parkjinhong/Documents/java_study"
+    "last_opened_file_path": "/Users/parkjinhong/Documents/java_study",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="static2" />
       <recent name="pack" />
       <recent name="construct" />
       <recent name="Constructor" />
       <recent name="oop1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ShoppingCartMain">
-    <configuration name="BankAccountMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="access.BankAccountMain" />
+  <component name="RunManager" selected="Application.MemberMain">
+    <configuration name="ConstantMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="final1.ConstantMain1" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="access.*" />
+          <option name="PATTERN" value="final1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CounterMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="access.ex.CounterMain" />
+    <configuration name="FinalFieldMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="final1.FinalFieldMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="access.ex.*" />
+          <option name="PATTERN" value="final1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PublicClassInnerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="access.a.PublicClassInnerMain" />
+    <configuration name="FinalRefMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="final1.FinalRefMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="access.a.*" />
+          <option name="PATTERN" value="final1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PublicClassOuterMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="access.b.PublicClassOuterMain" />
+    <configuration name="MathArrayUtilsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="static2.ex.MathArrayUtilsMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="access.b.*" />
+          <option name="PATTERN" value="static2.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShoppingCartMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="access.ex.ShoppingCartMain" />
+    <configuration name="MemberMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="final1.ex.MemberMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="access.ex.*" />
+          <option name="PATTERN" value="final1.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ShoppingCartMain" />
-        <item itemvalue="Application.CounterMain" />
-        <item itemvalue="Application.BankAccountMain" />
-        <item itemvalue="Application.PublicClassOuterMain" />
-        <item itemvalue="Application.PublicClassInnerMain" />
+        <item itemvalue="Application.MemberMain" />
+        <item itemvalue="Application.FinalRefMain" />
+        <item itemvalue="Application.ConstantMain1" />
+        <item itemvalue="Application.FinalFieldMain" />
+        <item itemvalue="Application.MathArrayUtilsMain" />
       </list>
     </recent_temporary>
   </component>
